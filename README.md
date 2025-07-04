@@ -51,8 +51,10 @@ mvn spring-boot:run
 - Body (raw JSON or text):
   ```json
   {
-    "content": "Your content here"
-  }
+  "name": "Kohli",
+  "message": "Kohli holds the most Player of the Series and second most Player of the Match awards across all formats combined, received the Arjuna Award (2013), Padma Shri (2017), and Khel Ratna Award (2018), was listed in Time's 100 most influential people in 2018, retired from T20Is after the 2024 World Cup final, retired from Tests in May 2025 at 36, is married to actress Anushka Sharma with two children, was born on 5 November 1988 in Delhi to a Punjabi Hindu family, showed early cricket interest, trained at West Delhi Cricket Academy under Rajkumar Sharma, overcame early setbacks including missing the U-14 Delhi team, advanced through youth cricket captaining Delhi U-15, scoring multiple centuries, excelled in Vijay Merchant Trophy with the U-17 team, was praised for temperament by coach Ajit Chaudhary, and was described by Ashish Nehra as a young kid who became a perfect athlete through dedication on and off the field."
+}
+
   ```
 
 #### Get Content
