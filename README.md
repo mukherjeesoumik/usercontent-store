@@ -1,4 +1,4 @@
-# usercontent-store
+# User Content Store
 
 A Spring Boot application for storing, retrieving, and downloading user-submitted content (text, HTML, JSON, etc.) in a PostgreSQL database. Supports multiple file formats for download and easy API testing with Postman.
 
